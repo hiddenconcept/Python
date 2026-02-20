@@ -22,38 +22,4 @@ A collection of Python-based tools focused on penetration testing and cybersecur
 
 ---
 
-## 🛠️ Tools & Libraries
-
-| Category | Tools |
-|---|---|
-| **Language** | Python 3 |
-| **Networking** | Scapy, Socket |
-| **Security** | Nmap (python-nmap) |
-| **General Utilities** | OS, Sys, Subprocess, Argparse |
-| **Environment** | Jupyter Notebook, VS Code |
-| **Version Control** | Git, GitHub |
-
-> ✏️ *Update this table as you add new libraries to your projects.*
-
----
-
-## ⚙️ Getting Started
-
-To run any project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Navigate to a project folder
-cd python/security-utilities/tool-1
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-> Some security tools may require elevated privileges (e.g. `sudo`) or a specific OS environment such as Kali Linux.
-
----
-
 *This portfolio is a work in progress and is updated regularly as new projects are completed.*
