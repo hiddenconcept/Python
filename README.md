@@ -4,18 +4,6 @@ A portfolio of Python projects and utilities demonstrating my skills in scriptin
 
 ---
 
-## 📁 Folder Structure
-
-```
-python/
-│
-├── security-utilities/        ← Penetration testing & security tools
-│   ├── tool-1/
-│   └── tool-2/
-│
-└── README.md                  ← You are here
-```
-
 > More project folders will be added over time.
 
 ---
