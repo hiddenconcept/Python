@@ -19,6 +19,21 @@ A collection of Python-based tools focused on penetration testing and cybersecur
 > ⚠️ **Disclaimer:** ⚠️ All tools in this folder are intended for **educational purposes only**. Only use these scripts on systems you own or have **explicit written permission** to test. Unauthorised use against systems you do not own is illegal and unethical. The author takes no responsibility for misuse.
 
 ---
+📘 Python By Example Challenges
+
+Solutions and practice exercises based on Python By Example: Learning to Program in 150 Challenges by Nichola Lacey.
+This section focuses on building core Python programming skills through progressively challenging exercises.
+
+Topics covered:
+
+Variables and user input
+Conditional statements
+Loops and iteration
+String manipulation
+Lists and data structures
+Functions and modular code
+File handling
+Problem-solving exercises
 
 ## 🛠️ Utility Scripts 🛠️
 A set of general-purpose Python scripts designed to automate repetitive tasks and simplify everyday workflows. These tools reflect a practical approach to problem solving through clean, reusable code.
